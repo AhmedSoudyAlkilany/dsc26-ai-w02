@@ -1,16 +1,12 @@
-# AI usage
 
-<!-- Replace every comment below with your own words. Short is fine. The grader checks only
-     that this file exists and has been changed from this template; your Track Mentor reads it. -->
+# AI Usage
 
-## Tools I used, and for which functions
+I started by making sure I understood the problem and reviewing the provided code and tests before writing or changing anything. Then, I inspected the sample dataset to understand its structure, identify potential data quality issues, and determine how to implement the audit functionality.
 
-<!-- e.g. "Claude for a first draft of audit(); Copilot autocomplete in metrics.py" -->
+After that, I consulted GPT and Claude to get suggestions for solving the task. I reviewed and evaluated both solutions, compared their approaches, and used the ideas I considered most suitable to develop my implementation.
 
-## One place where the AI was wrong, incomplete, or not what the spec said
+I ran the tests for the first time and got 4 out of 5 tests passing. I examined the failing test, identified the issue in the `threshold_for_precision` function, and updated the code accordingly.
 
-<!-- What did it produce, and how did you notice: a test, the docs, or your own reasoning? -->
+Finally, I ran the tests again, and all 5 tests passed.
 
-## The function I wrote without AI, and why
-
-<!-- Which one, and what you learned by writing it yourself. -->
+I used AI as an assistant for reviewing possible solutions, understanding the implementation, and debugging. I reviewed the code and test results throughout the process.
